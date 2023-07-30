@@ -1,0 +1,29 @@
+{
+  "personal": [
+    {
+      "id": "weqw",
+      "nombre": "qeqw",
+      "ap": "eqeqw",
+      "am": "qeqweq",
+      "e_civil": "C",
+      "l_nacimiento": "Potosi",
+      "usuario": "eqweqw",
+      "clave": "12345678",
+      "rclave": "12345678"
+    },
+    {
+      "id": "123475",
+      "nombre": "Chirs",
+      "ap": "erwrw",
+      "am": "ewrewr",
+      "e_civil": "C",
+      "l_nacimiento": "Potosi",
+      "usuario": "werwe",
+      "clave": "12345678",
+      "rclave": "12345678"
+    }
+  ],
+"profile":{
+	"name": "cr1is"
+}
+}
